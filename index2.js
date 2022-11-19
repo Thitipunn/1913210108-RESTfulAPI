@@ -1,7 +1,4 @@
 // let drinks = ["Water","Milk","Tea"]
-
-const { max } = require("date-fns");
-
 // for(const d of drinks){
 //     console.log(d);
 // }
